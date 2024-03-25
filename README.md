@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalho como Agente de Pesquisa e Mapeamento
 - 🌱 Aprendendo C# e Unity
+- 🦆 Estudante do curso CS50
 - 💬 Fluente em ingês, apaixonado por idiomas!
 - 📫 Me contacte pelo email: luizhm2000.ll@gmail.com  
 - 😄 Pronomes: ele/dele
