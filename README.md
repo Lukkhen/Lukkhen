@@ -1,8 +1,8 @@
 ### Olá! Saiba um pouco sobre mim:
 
-- 🔭 Atualmente trabalho como Agente de Pesquisa e Mapeamento
+- 🔭 Atualmente trabalho como Redator na empresa STLFLIX
 - 🌱 Aprendendo C# e Unity
-- 🦆 Estudante do curso CS50
+- 🦆 Estudante de Modelagem 3D (Blender, Zbrush) 
 - 💬 Fluente em ingês, apaixonado por idiomas!
 - 📫 Me contacte pelo email: luizhm2000.ll@gmail.com  
 - 😄 Pronomes: ele/dele
